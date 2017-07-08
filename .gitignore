@@ -58,3 +58,4 @@ typings/
 .env
 
 env.sh
+node_modules
